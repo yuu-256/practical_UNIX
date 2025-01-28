@@ -1,5 +1,11 @@
 #!/bin/bash
-# Script to start the application
+# Script to run the code
 
-echo "Running the application..."
-python3 app.py
+echo "Running the code"
+
+python3 ../code/file.py
+
+gcc ../code/file.c -o ../code/file
+../code/file
+
+echo "Code run successfully"
