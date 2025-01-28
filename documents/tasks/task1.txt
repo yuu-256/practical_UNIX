@@ -1,0 +1,5 @@
+Task 1: Analyze customer feedback
+- Extract key phrases.
+- Identify recurring themes.
+- Create a summary report.
+
